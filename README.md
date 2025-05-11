@@ -2,7 +2,7 @@
 
 # The dataset and code are currently for demonstration purpose only.
 
-# The complete dataset and the code will be publicly available after the paper is published in this repository.
+# The complete dataset and the code will be publicly available in this repository after the paper is published.
 ![alt text](pipline/pipeline.png)
 
 ## Visual comparison results with SOTA methods
