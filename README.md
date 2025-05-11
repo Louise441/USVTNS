@@ -6,5 +6,5 @@
 ![alt text](pipline/pipeline.png)
 
 ## Visual comparision results with SOTA methods
-![alt text](visual_comparison/visual_comparision-zoom2-1.pdf)
+![alt text](visual_comparison/visual_comparision-zoom2-1.png)
 
