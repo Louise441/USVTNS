@@ -1,6 +1,6 @@
 # USVTNS
 
-# Note: Due to the ethical review and authorization processes within the relevant hospital and organization, the dataset and code are currently for demonstration purposes only.
+# The dataset and code are currently for demonstration purpose only.
 
 # The complete dataset and the code will be publicly available after the paper is published in this repository.
 ![alt text](pipline/pipeline.png)
